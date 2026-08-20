@@ -1,0 +1,146 @@
+[
+    {
+        "id": "ATH_CREED_INTRO_1",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "Whosoever will be saved, before all things it is necessary that he hold the Catholic Faith. Which Faith except every one do keep whole and undefiled, without doubt he shall perish everlastingly.",
+        "citation_ref": "Introduction, Line 1-2",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Salvation", "Catholic Faith", "Necessity"]
+    },
+    {
+        "id": "ATH_CREED_TRINITY_1",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "Now this is the catholic faith: That we worship one God in trinity and the trinity in unity, neither blending their persons nor dividing their essence.",
+        "citation_ref": "Trinitarian Doctrine, Line 3-4",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Trinity", "Unity", "Essence"]
+    },
+    {
+        "id": "ATH_CREED_PERSONS_2",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "For the person of the Father is a distinct person, the person of the Son is another, and that of the Holy Spirit still another. But the divinity of the Father, Son, and Holy Spirit is one, their glory equal, their majesty coeternal.",
+        "citation_ref": "Trinitarian Doctrine, Line 5-7",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Personhood", "Divinity", "Coeternal"]
+    },
+    {
+        "id": "ATH_CREED_ATTRIBUTES_A",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "Such as the Father is, such is the Son, and such is the Holy Spirit. The Father uncreated, the Son uncreated, the Holy Spirit uncreated.",
+        "citation_ref": "Trinitarian Doctrine, Line 8-11",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Attributes", "Uncreated", "Equality"]
+    },
+    {
+        "id": "ATH_CREED_ATTRIBUTES_B",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "The Father infinite, the Son infinite, the Holy Spirit infinite. The Father eternal, the Son eternal, the Holy Spirit eternal. And yet there are not three eternals, but one eternal; as also there are not three uncreated, nor three infinites, but one uncreated, and one infinite.",
+        "citation_ref": "Trinitarian Doctrine, Line 12-17",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Attributes", "Infinite", "Eternal", "Unity"]
+    },
+    {
+        "id": "ATH_CREED_ONENESS_3",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "Thus the Father is God, the Son is God, the Holy Spirit is God. Yet there are not three gods; there is but one God. Thus the Father is Lord, the Son is Lord, the Holy Spirit is Lord. Yet there are not three lords; there is but one Lord.",
+        "citation_ref": "Trinitarian Doctrine, Line 18-21",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Monotheism", "Lordship", "Unity"]
+    },
+    {
+        "id": "ATH_CREED_RELATIONS_C",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "For as we are compelled by Christian truth to acknowledge each person by himself to be God and Lord; so are we forbidden by the catholic religion to say: There are three Gods or three Lords.",
+        "citation_ref": "Trinitarian Doctrine, Line 22-24",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Authority", "Catholic Religion", "Singular God"]
+    },
+    {
+        "id": "ATH_CREED_RELATIONS_D",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "The Father is made of none, neither created nor begotten. The Son is from the Father alone, not made nor created, but begotten. The Holy Spirit is from the Father and the Son, not made nor created nor begotten, but proceeding.",
+        "citation_ref": "Trinitarian Doctrine, Line 25-29",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Procession", "Begotten", "Filioque", "Relations"]
+    },
+    {
+        "id": "ATH_CREED_RELATIONS_E",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "So there is one Father, not three Fathers; one Son, not three Sons; one Holy Spirit, not three Holy Spirits. And in this Trinity none is before or after, none is greater or less than the other; but all three persons are coeternal with each other and coequal.",
+        "citation_ref": "Trinitarian Doctrine, Line 30-34",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Coeternal", "Coequal", "Unity"]
+    },
+    {
+        "id": "ATH_CREED_INCARNATION_4",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "He is one, however, not by his divinity being turned into flesh, but by God's taking humanity to himself. He is one, certainly not by the blending of his essence, but by the unity of his person.",
+        "citation_ref": "Christology, Line 35-37",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Incarnation", "Hypostatic Union", "Christology"]
+    },
+    {
+        "id": "ATH_CREED_INCARNATION_5",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "Furthermore, it is necessary to everlasting salvation that we also believe faithfully the incarnation of our Lord Jesus Christ. Now the right faith is that we believe and confess that our Lord Jesus Christ, the Son of God, is equally God and Man.",
+        "citation_ref": "Christology, Line 38-41",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Incarnation", "Salvation", "God and Man"]
+    },
+    {
+        "id": "ATH_CREED_DUAL_NATURES_6",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "He is God, begotten of the substance of the Father before time began; and He is Man, born of the substance of His mother in time; **perfect God, and perfect Man**, composed of a rational soul and human flesh.",
+        "citation_ref": "Christology, Line 42-45",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Perfect God", "Perfect Man", "Rational Soul", "Substance"]
+    },
+    {
+        "id": "ATH_CREED_INCARNATION_7",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "Equal to the Father with respect to his divinity, less than the Father with respect to his humanity. Although he is God and Man, he is not two, but one Christ.",
+        "citation_ref": "Christology, Line 46-48",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Equality", "Subordination", "One Christ"]
+    },
+    {
+        "id": "ATH_CREED_PASSION_8",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "Who suffered for our salvation, descended into hell, rose again from the dead on the third day, ascended into heaven, and is seated at the right hand of the Father, God Almighty.",
+        "citation_ref": "Christ's Work, Line 49-53",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Passion", "Resurrection", "Ascension", "Session"]
+    },
+    {
+        "id": "ATH_CREED_JUDGEMENT_9",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "From there he shall come to judge the living and the dead. At his coming all men shall rise again with their bodies, and shall give an account of their own works.",
+        "citation_ref": "Eschatology, Line 54-57",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Second Coming", "Judgment", "Resurrection of Body"]
+    },
+    {
+        "id": "ATH_CREED_CONCLUSION_10",
+        "scripture_source": "Athanasian Creed",
+        "original_language": "Latin (Translation)",
+        "text_segment": "And they that have done good shall go into life everlasting; and they that have done evil into everlasting fire. This is the catholic faith; which except a man believe faithfully and firmly, he cannot be saved.",
+        "citation_ref": "Conclusion, Line 58-61",
+        "segment_type": "Creedal Statement",
+        "concept_tags": ["Afterlife", "Everlasting Life", "Final Warning"]
+    }
+]
