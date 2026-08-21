@@ -1,5 +1,6 @@
 streamlit
 google-genai
-pydantic
 chromadb
+sentence-transformers
 reportlab
+pydantic
