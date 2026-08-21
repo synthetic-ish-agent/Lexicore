@@ -3,4 +3,3 @@ google-genai
 pydantic
 chromadb
 reportlab
--e .
